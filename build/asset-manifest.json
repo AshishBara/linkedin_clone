@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ashishbara.github.io/linkedin_clone/static/css/main.da5bc3c1.chunk.css",
+    "main.js": "/Ashishbara.github.io/linkedin_clone/static/js/main.5167d3b1.chunk.js",
+    "main.js.map": "/Ashishbara.github.io/linkedin_clone/static/js/main.5167d3b1.chunk.js.map",
+    "runtime-main.js": "/Ashishbara.github.io/linkedin_clone/static/js/runtime-main.81245a24.js",
+    "runtime-main.js.map": "/Ashishbara.github.io/linkedin_clone/static/js/runtime-main.81245a24.js.map",
+    "static/js/2.d4fbbf3e.chunk.js": "/Ashishbara.github.io/linkedin_clone/static/js/2.d4fbbf3e.chunk.js",
+    "static/js/2.d4fbbf3e.chunk.js.map": "/Ashishbara.github.io/linkedin_clone/static/js/2.d4fbbf3e.chunk.js.map",
+    "index.html": "/Ashishbara.github.io/linkedin_clone/index.html",
+    "static/css/main.da5bc3c1.chunk.css.map": "/Ashishbara.github.io/linkedin_clone/static/css/main.da5bc3c1.chunk.css.map",
+    "static/js/2.d4fbbf3e.chunk.js.LICENSE.txt": "/Ashishbara.github.io/linkedin_clone/static/js/2.d4fbbf3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81245a24.js",
+    "static/js/2.d4fbbf3e.chunk.js",
+    "static/css/main.da5bc3c1.chunk.css",
+    "static/js/main.5167d3b1.chunk.js"
+  ]
+}
